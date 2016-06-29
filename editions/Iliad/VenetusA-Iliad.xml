@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
@@ -11,7 +11,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Julia Spiegel</editor>
+        <editor>Katie Middleton</editor>
+        <editor>Andrew Smith</editor>
 
       </titleStmt>
       <publicationStmt>
@@ -25,7 +27,17 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <div n="24">
-        <l n="1">λῦτο δ᾽ ἀγών, λαοὶ δὲ θοὰς ἐπὶ νῆας ἕκαστοι</l>
+        <l n="55">τὸν δὲ χολωσαμένη προσέφη λευκώλενος <persName n="urn:cite:hmt:pers.pers116">Ἥρη</persName>·</l>
+        <l n="56">εἴη κεν καὶ τοῦτο τεὸν ἔπος ἀργυρότοξε·</l>
+        <l n="57">εἰ δὴ ὁμὴν <persName n="urn:cite:hmt:pers.pers1">Ἀχιλῆϊ</persName> καὶ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> θήσετε τιμήν.</l>
+        <l n="58"><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> μὲν θνητός τε γυναῖκά τε θήσατο μαζὸν·</l>
+        <l n="59">αὐτὰρ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεύς </persName>ἐστι θεᾶς γόνος. ἣν ἐγὼ αὐτὴ</l>
+        <l n="60">θρέψά τε καὶ ἀτίτηλα· καὶ ἀνδρὶ, πόρον παράκοιτιν</l>
+        <l n="61"><persName n="urn:cite:hmt:pers.pers184">Πηλεῖ</persName>, ὃς περὶ κῆρι φίλος γένετ' ἀθανάτοισι·</l>
+        <l n="62">πάντες δ' ἀντιάασθε θεοὶ γάμου· ἐν δὲ σὺ τοῖσι</l>
+        <l n="63">δαίνυ' ἔχων φόρμιγγα κακῶν ἕταρ', αἰὲν ἄπιστε·</l>
+        <l n="64">τὴν δ' ἀπαμειβόμενος προσέφη νεφεληγερέτα <persName n="urn:cite:hmt:pers.pers8">Ζεύς</persName>:</l>
+        <l n="65"><persName n="urn:cite:hmt:pers.pers116">Ἥρη</persName> μὴ δὴ πάμπαν ἀποσκύδμαινε θεοῖσιν.</l>
       </div>
     </body>
   </text>
