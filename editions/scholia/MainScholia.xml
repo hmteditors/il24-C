@@ -28,19 +28,30 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <group n="24">
             <text n="msA">
                 <body>
-                    <div n="1" type="scholion">
+                    <div n="C1" type="scholion">
                         <div type="lemma">
-                            <p> Ἕκτωρ μὲν θνητός τε</p>
+                            <p> <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> μὲν θνητός τε·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.58</p>
                         </div>
                         <div type="comment">
-                            <p>τοῦτο ἔνιοι τῶν κριτικῶν <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> συνωνυμίαν <choice><reg>μεταλαμβάνουσιν</reg><orig>μεταλαμβανοντες</orig></choice> 
-                            λέγοντες <choice><reg>ταὐτὸν</reg><orig>αὐτον</orig></choice> εἶναι γυναῖκα καὶ ἄνθρωπον (ανον) καὶ θνητόν, ὡς γίνεσθαι τοιοῦτον.Ἕκτωρ μὲν θνητὸς 
-                            θνητὸν τε θήσατο μαζον ἄλλοι δὲ παρειλῆφθαι τὸ γυναῖκα ἀντι τοῦ κτητικοῦ γυναικεῖον· τοὺς δὲ Ἀττικοὺς καὶ
-                             Δωριέας τοῖς κυριωτέροις χρῆσθαι ἀντι κτητικων Ἕλληνα στρατνὸ ἀντι Ἑλληνικον καὶ ἄνθρωπον (ανον) ῆθος
-                              ἀντι τοῦ ἀνθρώπινον (ανινον) καὶ Ἑλλάδα διάλεκτον⁑</p>
+                            <p>τοῦτο ἔνιοι τῶν κριτικῶν <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> συνωνυμίαν <choice><reg>μεταλαμβάνουσι</reg><orig>μεταλαμβανοντες</orig></choice> 
+                            λέγοντες <choice><reg>αὐτὸν</reg><orig>αὐτον</orig></choice> εἶναι γυναῖκα καὶ <choice><abbr>ανον</abbr><expan>ἄνθρωπον</expan> </choice>καὶ θνητόν, ὡς γίνεσθαι τοιοῦτον.<persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ </persName>μὲν θνητὸς 
+                            θνητὸν τε θήσατο μαζον ἄλλοι δὲ παρειλῆφθαι τὸ γυναῖκα ἀντι τοῦ κτητικοῦ γυναικεῖον· τοὺς δὲ <placeName n = "urn:cite:hmt:place.place76">Ἀττικοὺς</placeName> καὶ
+                             <placeName n ="urn:cite:hmt:pers.pers344" > Δωριέας</placeName> τοῖς κυριωτέροις χρῆσθαι ἀντι κτητικων Ἕλληνα στρατὸν ἀντι Ἑλληνικον καὶ ἄνθρωπον (ανον) ῆθος
+                      ἀντι τοῦ <choice><abbr>ανινον</abbr><expan>ἀνθρώπινον</expan></choice>καὶ Ἑλλάδα διάλεκτον⁑</p>
+                        </div>
+                    </div>
+                    <div n="C2" type="scholion">
+                        <div type="lemma">
+                            <p> <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> μὲν θνητός τε:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.58</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἡ διπλῆ, ὅτι ἀντι τοῦ γυναικὸς μαζόν Ὁμηρικὸν δὲ τὸ εθος <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.124</ref><q>ὣς τὴν μὲν πρύμνην ἄμφεπε</q></cit>⁑</p>
                         </div>
                     </div>
                 </body>
