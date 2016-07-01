@@ -54,6 +54,20 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἡ διπλῆ, ὅτι ἀντι τοῦ γυναικὸς μαζόν Ὁμηρικὸν δὲ τὸ εθος <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.124</ref><q>ὣς τὴν μὲν πρύμνην ἄμφεπε</q></cit>⁑</p>
                         </div>
                     </div>
+                    <div n="C3" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλ' ἤτοι κλέψαι μὲν·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.71</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετοῦνται στίχοι <num>Γ</num> ὅτι ψεῦδος περιέχουσιν· οὐ γὰρ διὰ παντὸς σὺνδιατρίβει αὐτῷ ἡ Θέτις τὸ δε <q>ἐάσομεν</q> 
+                            νῦν ἀντι τοῦ <q>παρῶμεν</q> οἶον μηδε λέγωμεν ὅπερ ἀγνοήσαντες οἱ περι <persName n="urn:cite:hmt:pers.pers7">Ἀντίμαχον</persName> ἐποίησαν 
+                            <q>κλέψαι μὲν ἀμήχανον</q> γράφεται δὲ κατ' ενια <q>εὖ γάρ οἱ αἰεὶ</q> διὰ μέσου δὲ τὸ <q>οὐδέ πῃ ἔστι</q> τὸ δὲ ἑξῆς 
+                            <q>ἀλλ' ήτοι κλεψαι μὲν ἐάσομεν λάθρῃ</q> <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλῆος</persName></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
