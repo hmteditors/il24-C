@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Scholia</title>
+                <author>Julia Spiegel</author>
+                <author>Katie Middleton</author>
+                <author>Andrew Smith</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="24">
+            <text n="msA">
+                <body>
+                    <div n="C1" type="scholion">
+                        <div type="lemma">
+                            <p> <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> μὲν θνητός τε·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.58</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο ἔνιοι τῶν κριτικῶν <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> συνωνυμίαν <choice><reg>μεταλαμβάνουσι</reg><orig>μεταλαμβανοντες</orig></choice> 
+                            λέγοντες <choice><reg>αὐτὸν</reg><orig>αὐτον</orig></choice> εἶναι γυναῖκα καὶ <choice><abbr>ανον</abbr><expan>ἄνθρωπον</expan> </choice>καὶ θνητόν, ὡς γίνεσθαι τοιοῦτον.<persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ </persName>μὲν θνητὸς 
+                            θνητὸν τε θήσατο μαζον ἄλλοι δὲ παρειλῆφθαι τὸ γυναῖκα ἀντι τοῦ κτητικοῦ γυναικεῖον· τοὺς δὲ <placeName n = "urn:cite:hmt:place.place76">Ἀττικοὺς</placeName> καὶ
+                             <placeName n ="urn:cite:hmt:pers.pers344" > Δωριέας</placeName> τοῖς κυριωτέροις χρῆσθαι ἀντι κτητικων Ἕλληνα στρατὸν ἀντι Ἑλληνικον καὶ ἄνθρωπον (ανον) ῆθος
+                      ἀντι τοῦ <choice><abbr>ανινον</abbr><expan>ἀνθρώπινον</expan></choice>καὶ Ἑλλάδα διάλεκτον⁑</p>
+                        </div>
+                    </div>
+                    <div n="C2" type="scholion">
+                        <div type="lemma">
+                            <p> <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> μὲν θνητός τε:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.58</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἡ διπλῆ, ὅτι ἀντι τοῦ γυναικὸς μαζόν Ὁμηρικὸν δὲ τὸ εθος <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.124</ref><q>ὣς τὴν μὲν πρύμνην ἄμφεπε</q></cit>⁑</p>
+                        </div>
+                    </div>
+                    <div n="C3" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλ' ἤτοι κλέψαι μὲν·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.71</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετοῦνται στίχοι <num>Γ</num> ὅτι ψεῦδος περιέχουσιν· οὐ γὰρ διὰ παντὸς σὺνδιατρίβει αὐτῷ ἡ Θέτις τὸ δε <q>ἐάσομεν</q> 
+                            νῦν ἀντι τοῦ <q>παρῶμεν</q> οἶον μηδε λέγωμεν ὅπερ ἀγνοήσαντες οἱ περι <persName n="urn:cite:hmt:pers.pers7">Ἀντίμαχον</persName> ἐποίησαν 
+                            <q>κλέψαι μὲν ἀμήχανον</q> γράφεται δὲ κατ' ενια <q>εὖ γάρ οἱ αἰεὶ</q> διὰ μέσου δὲ τὸ <q>οὐδέ πῃ ἔστι</q> τὸ δὲ ἑξῆς 
+                            <q>ἀλλ' ήτοι κλεψαι μὲν ἐάσομεν λάθρῃ</q> <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλῆος</persName></p>
+                        </div>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
