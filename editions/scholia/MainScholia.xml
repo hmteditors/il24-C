@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
@@ -66,6 +66,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             νῦν ἀντι τοῦ <q>παρῶμεν</q> οἶον μηδε λέγωμεν ὅπερ ἀγνοήσαντες οἱ περι <persName n="urn:cite:hmt:pers.pers7">Ἀντίμαχον</persName> ἐποίησαν 
                             <q>κλέψαι μὲν ἀμήχανον</q> γράφεται δὲ κατ' ενια <q>εὖ γάρ οἱ αἰεὶ</q> διὰ μέσου δὲ τὸ <q>οὐδέ πῃ ἔστι</q> τὸ δὲ ἑξῆς 
                             <q>ἀλλ' ήτοι κλεψαι μὲν ἐάσομεν λάθρῃ</q> <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλῆος</persName></p>
+                        </div>
+                    </div>
+                    <div n="C4" type="scholion">
+                        <div type="lemma">
+                            <p> ἡ γάρ οἱ αιεὶ</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.72
+                            </p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐκ αναγκαιον τὸ <num>η</num> <choice><orig>ἄρθ</orig><reg>ἄρθρον</reg></choice> ἐκδέχεσθαι καὶ δασύνειν ἔθος γὰρ αὐτῷ 
+                            ἔσθ' ὅτε παραλείπειν τὰ ἄρθρα <cit><ref type = "urn">urn:cts:greekLit:tlg0012.tlg001.msA:21.276 </ref>
+                            <q>ἀλλα φίλη <choice><orig>μηρ</orig><reg>μήτηρ</reg></choice></q></cit>.
+                             <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:1.215</ref><q><choice><orig>μηρ</orig><reg>μήτηρ</reg>
+                             </choice> μὲν τέ μέ φησὶ</q></cit> σύνδεσμος οὖν ἐστι βεβαιωτικός δι ὃ περισπαστέον⁑</p>
                         </div>
                     </div>
                 </body>
